@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37600c82-e1f5-4ad9-8028-7fdfd97a673a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/lectures/Lecture9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/lectures/Lecture9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/mockdata/MockData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/mockdata/MockData.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bu77sSVPVUFnkqiwEYqJsq3Dxn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Patrones-Udemy" />
+    <property name="settings.editor.selected.configurable" value="nele.options" />
+  </component>
+  <component name="RunManager" selected="JUnit.Lecture13.intermediateAndTerminalOperations">
+    <configuration name="Lecture10.withFlatMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lectures" />
+      <option name="MAIN_CLASS_NAME" value="lectures.Lecture10" />
+      <option name="METHOD_NAME" value="withFlatMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lecture11.joiningStringsWithStream" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lectures" />
+      <option name="MAIN_CLASS_NAME" value="lectures.Lecture11" />
+      <option name="METHOD_NAME" value="joiningStringsWithStream" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lecture12.understandingCollect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lectures" />
+      <option name="MAIN_CLASS_NAME" value="lectures.Lecture12" />
+      <option name="METHOD_NAME" value="understandingCollect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lecture13.intermediateAndTerminalOperations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lectures" />
+      <option name="MAIN_CLASS_NAME" value="lectures.Lecture13" />
+      <option name="METHOD_NAME" value="intermediateAndTerminalOperations" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lecture9.reduce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javastreams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lectures" />
+      <option name="MAIN_CLASS_NAME" value="lectures.Lecture9" />
+      <option name="METHOD_NAME" value="reduce" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Lecture13.intermediateAndTerminalOperations" />
+        <item itemvalue="JUnit.Lecture12.understandingCollect" />
+        <item itemvalue="JUnit.Lecture11.joiningStringsWithStream" />
+        <item itemvalue="JUnit.Lecture10.withFlatMap" />
+        <item itemvalue="JUnit.Lecture9.reduce" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37600c82-e1f5-4ad9-8028-7fdfd97a673a" name="Default Changelist" comment="" />
+      <created>1589469960844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589469960844</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" width="816" height="729" key="#Intentions" timestamp="1589494321027">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" width="816" height="729" key="#Intentions/0.0.1600.860@0.0.1600.860" timestamp="1589494321027" />
+    <state width="420" height="466" key="DebuggerActiveHint" timestamp="1589496766078">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="420" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1589496766078" />
+    <state x="784" y="313" key="FileChooserDialogImpl" timestamp="1589567435049">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="313" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1589567435049" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1589567447958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589567447958" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1589567447958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1589567447958" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1589567447958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1589567447958" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1589567447958">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1589567447958" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1589497056509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1589497056509" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1589497056509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1589497056509" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1589497056509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1589497056509" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1589497056509">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1589497056509" />
+    <state x="301" y="75" key="SettingsEditor" timestamp="1589496524246">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1589496524246" />
+    <state x="410" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589495391313">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="410" y="56" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1589495391313" />
+  </component>
+</project>
